@@ -24,6 +24,7 @@ Data visualization plays a crucial role in presenting findings effectively. Char
 
 By systematically processing and analyzing social media data through these components, we gain a comprehensive understanding of tourist sentiment and preferences, ultimately leading to actionable insights for the tourism industry.
 <br>
+
 ## Key findings
 1. Our analysis revealed a sentiment distribution of almost 85% positive sentiment and 15% negative sentiment.
 2. Positive Trends:

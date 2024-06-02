@@ -1,5 +1,9 @@
 Tourism-Project
 # Project: 'Enhancing Tourist Experiences using Social Media Analytics and Deep Learning'
+# Collaborators:
+- [Anreet Kaur](https://github.com/AnreetKaur85)
+- [Himanshi Kaura](https://github.com/Himanshikaura)
+- [Nandini](https://github.com/Nandini-Nandini)
 
 ## Project description
 This project investigates tourist sentiment and preferences by analyzing a large dataset of extracted tweets related to travel experiences. By leveraging sentiment analysis and topic modeling techniques, we aim to identify the factors influencing tourists' positive and negative experiences.
